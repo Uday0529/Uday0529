@@ -26,8 +26,7 @@ Creating secure APIs, database-driven applications, and responsive web experienc
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/Manga_Dragonball.gif
-" width="230" alt="img"/>
+<img align="right" src="./assets/Manga_Dragonball.gif" width="230" alt="img"/>
 
 **Uday**, I'm a **Software Developer focused on backend and web development**, working with **C#, .NET, ASP.NET Core, Node.js, JavaScript, HTML, CSS, and SQL**.
 
