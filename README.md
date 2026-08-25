@@ -1,6 +1,7 @@
 <p align="center">
-<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl0azhxZDJ3M2RrdXliN25oZDZpaWk1dm1rc2RnYmppenlhNTh3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7jzGb5JT0B2D7w771/giphy.gif" alt="Banner" width ="100%" height = "220" border="2">
+<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl0azhxZDJ3M2RrdXliN25oZDZpaWk1dm1rc2RnYmppenlhNTh3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7jzGb5JT0B2D7w771/giphy.gif" alt="Banner" width ="100%" height = "220">
 </p>
+
 ---
 
 <h1 align="center">
@@ -10,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-Full stack developer | .NET | SQL Server
+Full Stack developer | .NET | SQL Server
 </h3>
 
 <p align="center">
