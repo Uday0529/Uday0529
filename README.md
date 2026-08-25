@@ -1,5 +1,5 @@
 <div align="center">
-<img src ="./assets/Animated_goku.gif" alt="Banner" width ="100%" height = "210">
+<img src ="./assets/Animated_goku.gif" alt="Banner" width ="100%" height = "250">
 </div>
 
 ---
@@ -26,8 +26,8 @@ Creating secure APIs, database-driven applications, and responsive web experienc
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjVuenhoeGE2Y2JmcThjd3FobjN6dHc5ZTkxeXF4bGxzbGdzYWtqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqI52e6h8HhvPSty2e/giphy.gif
-" width="250" alt="img"/>
+<img align="right" src="./assets/Manga_Dragonball.gif
+" width="230" alt="img"/>
 
 **Uday**, I'm a **Software Developer focused on backend and web development**, working with **C#, .NET, ASP.NET Core, Node.js, JavaScript, HTML, CSS, and SQL**.
 
