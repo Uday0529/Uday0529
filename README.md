@@ -1,5 +1,5 @@
 <div align="center">
-<img src ="./assets/Animated_goku.gif" alt="Banner" width ="100%" height = "250">
+<img src ="./assets/banner_Gif.gif" alt="Banner" width ="100%" height = "250">
 </div>
 
 ---
