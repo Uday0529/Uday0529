@@ -6,7 +6,7 @@
 
 <h1 align="center">
 
-<h1 align="center">Hi 👋, I'm Uday</h1>
+<h1 align="center">Hi 👋, I'm Uday G</h1>
 
 </h1>
 
